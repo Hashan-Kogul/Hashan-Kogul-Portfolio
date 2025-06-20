@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import Hashan from "../../assets/Hashan Kogul.png";
+import Hashan from "../../assets/Hashan Kogul.jpg";
 import ScrollAnimation from "react-animate-on-scroll";
 
 export function About() {
